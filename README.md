@@ -12,3 +12,4 @@ Limited hints available.
 Automatic win/lose messages.
 Keyboard navigation between letters.
 Fully open-source and customizable.
+<img width="1912" height="917" alt="Screenshot 2025-09-01 133703" src="https://github.com/user-attachments/assets/1f720f6e-b351-4dd9-9df4-b0f2c3e6ac2c" />
