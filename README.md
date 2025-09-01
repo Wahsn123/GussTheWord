@@ -21,14 +21,11 @@ You can use the "Hints" button for limited help during the game.
 
 ## original page
 <img width="1914" height="917" alt="Screenshot 2025-09-01 134804" src="https://github.com/user-attachments/assets/cba89f47-6a5c-49fe-b760-74abb20b1318" />
+
 ## 1-Win Case
 <img width="1912" height="917" alt="Screenshot 2025-09-01 133703" src="https://github.com/user-attachments/assets/1f720f6e-b351-4dd9-9df4-b0f2c3e6ac2c" />
-
 and
-
-<img width="1918" height="909" alt="Screenshot 2025-09-01 135130" src="https://github.com/user-attachments/assets/2011bb48-c335-41d7-9efb-dfce2863e5cd" />
- 
-  
+<img width="1918" height="909" alt="Screenshot 2025-09-01 135130" src="https://github.com/user-attachments/assets/2011bb48-c335-41d7-9efb-dfce2863e5cd" />  
 ## 2-Win Without Using Hints:
 <img width="1910" height="920" alt="Screenshot 2025-09-01 135801" src="https://github.com/user-attachments/assets/f0dd8a8b-dbeb-4a84-be36-465d50e7d166" />
 ## 3-Lose Case:
