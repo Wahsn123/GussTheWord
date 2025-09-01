@@ -25,7 +25,7 @@ You can use the "Hints" button for limited help during the game.
 
 <img width="1918" height="909" alt="Screenshot 2025-09-01 135130" src="https://github.com/user-attachments/assets/2011bb48-c335-41d7-9efb-dfce2863e5cd" />
 ##Win Case:
-When the player guesses the word correctly.
+ -When the player guesses the word correctly.
 <img width="1910" height="920" alt="Screenshot 2025-09-01 135801" src="https://github.com/user-attachments/assets/f0dd8a8b-dbeb-4a84-be36-465d50e7d166" />
 
 <img width="1910" height="915" alt="Screenshot 2025-09-01 140009" src="https://github.com/user-attachments/assets/62c23b86-e1ab-4da2-9c70-9a9a9aab4fae" />
